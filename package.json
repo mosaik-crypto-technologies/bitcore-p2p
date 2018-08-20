@@ -18,8 +18,8 @@
     "url": "https://github.com/bitpay/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#iop",
-    "bcoin": "mosaik-crypto-technologies/bcoin#iop",
+    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#testnet",
+    "bcoin": "mosaik-crypto-technologies/bcoin#testnet",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
